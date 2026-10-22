@@ -21,7 +21,7 @@ Scientific Research and Open-Source Collaboration
 
 💻 Technical Skills
 
-Programming: Python, C++, Java (learning)
+Programming: Python (learning)
 
 Research Interests: Bioinformatics, Biological Data Analysis, AI/ML Applications in Biology
 
