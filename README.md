@@ -25,7 +25,7 @@ Programming: Python, C++, Java (learning)
 
 Research Interests: Bioinformatics, Biological Data Analysis, AI/ML Applications in Biology
 
-Languages: English, Hindi, Japanese (learning), German (learning)
+Languages: English, Hindi, Japanese (learning)
 
 🚀 Currently Working On
 
